@@ -39,5 +39,5 @@ comments: true
 
 블로그의  특정 디렉토리에 이미지를 올리거나 이미지 공유 서비스의 공유링크를 이용한다.
 
-![펭돌이와 펭순이의 뽀뽀: 디렉토리](/image/bio-photo.jpg)
+![펭돌이와 펭순이의 뽀뽀: 디렉토리](/images/bio-photo.jpg)
 ![펭돌이와 펭순이의 뽀뽀: 드랍박스](https://www.dropbox.com/s/w6bu1c8h0c8ud1u/bio-photo.jpg?dl=0)
