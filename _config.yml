@@ -1,11 +1,10 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Helen's Blog
+description: 내 일상생활
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+# url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -31,10 +30,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Helen
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  email: yosinkim@gmail.com
+  disqus-shortname: helenkim
   twitter: #username
   facebook: #username
   github: #username
